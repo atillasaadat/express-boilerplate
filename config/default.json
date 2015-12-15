@@ -4,8 +4,8 @@
 		"port": 3000
 	},
 	"database": {
-		"database": "receptor",
-		"user": "root",
-		"password": ""
+		"database": "database",
+		"user": "user",
+		"password": "password"
 	}
 }
